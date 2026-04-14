@@ -1,0 +1,14 @@
+# build
+build/
+*.o
+*.elf
+
+# python
+__pycache__/
+*.pyc
+
+# logs
+data/*.csv
+
+# OS
+.DS_Store
