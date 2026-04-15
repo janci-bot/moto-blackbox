@@ -1,0 +1,9 @@
+collector:
+  port: 5000
+
+processor:
+  batch_size: 100
+
+storage:
+  raw_path: data/raw
+  processed_path: data/processed
